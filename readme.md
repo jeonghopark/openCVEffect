@@ -1,5 +1,6 @@
-für IL SS2015 / Echtzeit
+# for Workshop / Realtime
 
-SourceCode von https://github.com/atduskgreg/opencv-processing
+Realtime Video Processing.
 
-Ich habe die Code für Echtzeit-Processing noch geschrieben.
+SourceCode from https://github.com/atduskgreg/opencv-processing
+
